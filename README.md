@@ -7,14 +7,23 @@ Faculty Hack - Gateways 2023
 <li>Fernanda Foerter, Voltron Data, Mentor, fernanda@voltrondata.com/li>
 <li>Alfred Watkins,Morehouse College, Mentor, alfred.watkins@morehouse.edu</li>
 </ul>
+## Hackaton Goals
+Target Course: 
+ECE 101 - Introduction to Electrical and Computer Engineering 
+This course gives first year students a survey of the field of the electrical and computer engineering. It describes the different subareas within the electrical and computer engineering field and the analytical tools that will be utilized throughout the curriculum. The course discusses the curriculum, the available technical electives, and professional careers for ECE students.
+
+
+### Goals
+Expand the Introduction to Computers module to include an introduction to High Performance Computing 
+Introduce students to cloud services including github and AWS
+Expand student's understanding of the need for HPC professionals 
+
 
 ## HPC support
 ## Gateway References
 ## HPC tools used
 ## Revised course syllabus
-Target Course: 
-ECE 101 - Introduction to Electrical and Computer Engineering 
-This course gives first year students a survey of the field of the electrical and computer engineering. It describes the different subareas within the electrical and computer engineering field and the analytical tools that will be utilized throughout the curriculum. The course discusses the curriculum, the available technical electives, and professional careers for ECE students.
+
 
 Proposed Revisions: 
 
