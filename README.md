@@ -2,10 +2,10 @@
 Faculty Hack - Gateways 2023
 ## Meet the Team
 <ul>
-<li>Andrew Overton, Jackson State University, Hacker</li>
-<li>Jacqueline Jackson, Jackson State University, Hacker</li>
-<li>Fernanda Foerter, Voltron Data, Mentor</li>
-<li>Alfred Watkins,Morehouse College, Mentor</li>
+<li>Andrew Overton, Jackson State University, Hacker, andrew.j.overton.sr@gmail.com</li>
+<li>Jacqueline Jackson, Jackson State University, Hacker, jacqueline.m.jackson@jsumse.edu</li>
+<li>Fernanda Foerter, Voltron Data, Mentor, fernanda@voltrondata.com/li>
+<li>Alfred Watkins,Morehouse College, Mentor, alfred.watkins@morehouse.edu</li>
 </ul>
 
 
