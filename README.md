@@ -7,6 +7,7 @@ Faculty Hack - Gateways 2023
 <li>Fernanda Foerter, Voltron Data, Mentor, fernanda@voltrondata.com</li>
 <li>Alfred Watkins, Morehouse College, Mentor, alfred.watkins@morehouse.edu</li>
 </ul>
+![Capture_TeamTechTigers](https://github.com/jackson820/TeamTechTigers/assets/51715934/a9d2f0ad-a606-4ca3-834e-23bd41e66c7c)
 
 ## Hackaton Goals
 Target Course: 
