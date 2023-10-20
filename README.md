@@ -12,6 +12,8 @@ Faculty Hack - Gateways 2023
 ## Gateway References
 ## HPC tools used
 ## Revised course syllabus
+ECE 101 - Introduction to Electrical and Computer Engineering 
+This course gives first year students a survey of the field of the electrical and computer engineering. It describes the different subareas within the electrical and computer engineering field and the analytical tools that will be utilized throughout the curriculum. The course discusses the curriculum, the available technical electives, and professional careers for ECE students.
 ## Next step suggestions from the community mentor
 ## 2 year Course Implementation Schedule
 ## Poster
