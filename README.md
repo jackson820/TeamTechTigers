@@ -17,7 +17,7 @@ This course gives first year students a survey of the field of the electrical an
 ### Goals
 <li> Expand the Introduction to Computers module to include an introduction to High Performance Computing </li>
 <li> Introduce students to cloud services including github and AWS </li>
-<li> Expand student's understanding of the neeed for HPC professionals </li>
+<li> Expand student's understanding of the need for HPC professionals </li>
 
 
 ## HPC support
