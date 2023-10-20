@@ -7,5 +7,9 @@ Faculty Hack - Gateways 2023
 <li>Fernanda Foerter, Voltron Data, Mentor, fernanda@voltrondata.com/li>
 <li>Alfred Watkins,Morehouse College, Mentor, alfred.watkins@morehouse.edu</li>
 </ul>
+## HPC support
+## Gateway References
+## HPC tools used
+## Revised course syllabus
 
 
